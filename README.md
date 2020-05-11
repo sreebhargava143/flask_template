@@ -33,3 +33,4 @@ flask run
 
 * 'mini_app1' is template for mini apps inside project
 * After creating a new app inside project update __init__.py file in root folder
+* Its better to go through services and tests 
